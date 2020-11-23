@@ -97,7 +97,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://spyboy.blog/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
